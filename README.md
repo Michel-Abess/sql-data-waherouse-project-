@@ -15,7 +15,7 @@ Build a modern data waherouuse using sql server to consoliidate data enabling an
 
 #### Specifications
 - **Data sources** : Import data from source system (ERP & CRM)
-- **Dataa Quality** : Clean and resolve data quality issues
+- **Data Quality** : Clean and resolve data quality issues
 - **Integration** : Combine both sources into a single uuser-friendly data model designed for analytic queries
 - **scope** : Focus on the latest data set only - historization is not required
 - **Documentation** : Provide clear docuumentation of the data model to support both business stakeholders and analytics teams
