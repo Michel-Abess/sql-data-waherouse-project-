@@ -20,7 +20,7 @@ Build a modern data waherouuse using sql server to consoliidate data enabling an
 - **scope** : Focus on the latest data set only - historization is not required
 - **Documentation** : Provide clear docuumentation of the data model to support both business stakeholders and analytics teams
 
------
+
 
 ### BI: Analytics and Reporting (Data Analytics)
 
